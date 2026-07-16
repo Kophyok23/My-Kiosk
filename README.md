@@ -11,7 +11,7 @@ My Kiosk သည် ကလေးငယ်များအတွက် ဘေးက
 ## 🛠 နည်းပညာဆိုင်ရာ အချက်အလက်များ (Tech Stack)
 - **Language**: Java
 - **Platform**: Android
-- **Target SDK**: [သင့် App ရဲ့ SDK version ကိုထည့်ပါ]
+- **Target SDK**: 33
 - **Minimum SDK**: 21 (Android 5.0)
 
 ## 📦 တပ်ဆင်အသုံးပြုနည်း (How to Setup)
@@ -21,9 +21,12 @@ My Kiosk သည် ကလေးငယ်များအတွက် ဘေးက
 
    Android IDE တွင် ဖွင့်ပါ: Android IDE (သို့) Android Studio တွင် Project ကို Import လုပ်ပါ။
 Build & Run: သင့်ဖုန်းတွင် Build လုပ်ပြီး ထည့်သွင်းအသုံးပြုနိုင်ပါသည်။
+
 🤝 ပူးပေါင်းပါဝင်ခြင်း (Contributing)
+
 ဤ Project ကို ပိုမိုကောင်းမွန်အောင် ပြုလုပ်လိုပါက Pull Request များ တင်သွင်းနိုင်ပါသည်။ အကြံပြုချက်များကို အမြဲ ကြိုဆိုပါတယ်။
 
 📜 License
+
 ဤ Project ကို MIT License ဖြင့် ထုတ်ပြန်ထားပါသည်။
 Created by Kophyok23
